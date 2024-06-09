@@ -5,5 +5,7 @@
 * ResetNTFSPermission : thay đổi quyền NTFSPermission về trạng thái không thiết lập
 * TaskKillFolder : Xóa ứng dụng đang truy cập thư mục
 * VBCryptor : mã hóa tệp VBScript sang VBA
+* USBDriver : Xem thông tin usb, format và ebject,...
+* WinPE : Tạo shortcut cho các ứng dụng nền WinPE
 * Email : 2conglc.vn@gmail.com
 * © 2008 - 2024 . By 2CongLC
