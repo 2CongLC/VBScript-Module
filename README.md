@@ -7,5 +7,7 @@
 * VBCryptor : mã hóa tệp VBScript sang VBA
 * USBDriver : Xem thông tin usb, format và ebject,...
 * WinPE : Tạo shortcut cho các ứng dụng nền WinPE
+* Network : Xem thông tin kết nối mạng và thiết lập
+* PCTweaks : Tinh chỉnh và tối ưu hóa OS Windows ( từ XP cho đến Windows 10)
 * Email : 2conglc.vn@gmail.com
 * © 2008 - 2024 . By 2CongLC
