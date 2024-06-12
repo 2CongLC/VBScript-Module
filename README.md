@@ -9,5 +9,6 @@
 * WinPE : Tạo shortcut cho các ứng dụng nền WinPE
 * Network : Xem thông tin kết nối mạng và thiết lập
 * PCTweaks : Tinh chỉnh và tối ưu hóa OS Windows ( từ XP cho đến Windows 10)
+* PinToTaskbar : Ghim ứng dụng lên thanh Taskbar ( áp dụng windows xp đến 10)
 * Email : 2conglc.vn@gmail.com
 * © 2008 - 2024 . By 2CongLC
